@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "eject": "expo eject",
+    "build": "expo build:android"
+},
+  "dependencies": {
+    "@react-navigation/native": "^6.0.10"
+  }
+}
+
